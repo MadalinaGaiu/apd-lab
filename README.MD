@@ -6,3 +6,4 @@ autor laborator: <numele vostru>
 - SAMPLE_PERIOD_MS: Perioada de citire a datelor
 - SERIAL_BAUD: Viteza comunicatiei pe portul serial
 - LED_PIN: Pinul 13 asociat LED-ului de stare
+Comunicație serială la 115200 baud
