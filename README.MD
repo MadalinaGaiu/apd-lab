@@ -6,3 +6,7 @@ autor laborator: <numele vostru>
 - SAMPLE_PERIOD_MS: Perioada de citire a datelor
 - SERIAL_BAUD: Comunicația serială suportă două profiluri: modul implicit de 115200 baud pentru transfer rapid și modul de 19200 baud pentru compatibilitate cu terminale vechi.
 - LED_PIN: Pinul 13 asociat LED-ului de stare
+## Senzori utilizați
+| Senzor | Interfață | Domeniu |
+|---|---|---|
+| TMP36 | Analogic (A0) | -40°C .. +125°C |
